@@ -17,12 +17,11 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CenzoGod/Banall-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/KapilJaat789/tnbanall-)
 
 # Credits
-* [𝐑𝖊𝖆𝖕𝖊𝖗ㅤᯤ⁹⁹⁹⁺](https://github.com/CenzoGod/Banall-)
+* [𝐓𝐎𝐓𝐀𝐋 𝐍𝐄𝐓𝐖𝐎𝐑𝐊𝐒 ⚡](https://github.com/KapilJaat789/tnbanall)
 
 <p align="center"> Μɛɛт Μɛ Ħɛяɛ </p>
 
-[Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Reaperx5)
-
+[Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TN_BOT_SUPPORT)
