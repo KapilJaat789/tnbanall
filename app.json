@@ -1,7 +1,7 @@
 {
    "name": "TN BANALL",
    "description": "Telegram Bot",
-   "repository": "https://github.com/KapilJaat789/tnbanall"
+   "repository": "https://github.com/KapilJaat789/tnbanall",
    "image": "heroku/python",
    "env": {
       "API_ID": {
