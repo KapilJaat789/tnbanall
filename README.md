@@ -17,7 +17,7 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/KapilJaat789/tnbanall-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/KapilJaat789/tnbanall)
 
 # Credits
 * [𝐓𝐎𝐓𝐀𝐋 𝐍𝐄𝐓𝐖𝐎𝐑𝐊𝐒 ⚡](https://github.com/KapilJaat789/tnbanall)
