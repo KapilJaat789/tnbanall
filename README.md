@@ -1,8 +1,8 @@
 
-<p align="center">🇷 🇪 🇦 🇵 🇪 🇷  🇧 🇦 🇳 🇦 🇱 🇱  🇧 🇴 🇹 </p>
+<p align="center">🇹 🇳  🇧 🇦 🇳 🇦 🇱 🇱  🇧 🇴 🇹 </p>
 
 
-<p align="center"><a href="https://t.me/Reaper_Support"><img src="https://telegra.ph/file/60abdd0dac472c43a2e0b.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/TN_BOT_SUPPORT"><img src="https://telegra.ph/file/60abdd0dac472c43a2e0b.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
