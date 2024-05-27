@@ -63,7 +63,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"**𝚃𝚑𝚎 𝚂𝚙𝚎𝚎𝚍 𝚘𝚏 𝙲𝚎𝚗𝚣𝚘 ⚡** \n\n 𝙼𝚢 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 @FAKEXENZO! `{ms}` ms")
+        await event.edit(f"**Feel The TN Power ⚡** \n\n 𝙼𝚢 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 @ITACHI_TNs! `{ms}` ms")
 
 
 @Riz.on(events.NewMessage(pattern="^/kickall"))
@@ -192,6 +192,6 @@ async def restart(e):
 
 
 print("\n\n")
-print("𝙲𝚎𝚗𝚣𝚘 𝙱𝚊𝚗𝚊𝚕𝚕 𝙱𝚘𝚝 𝙳𝚎𝚙𝚕𝚘𝚢𝚎𝚍 𝚂𝚞𝚌𝚌𝚎𝚜𝚏𝚞𝚕𝚕𝚢⚡")
+print("TN 𝙱𝚊𝚗𝚊𝚕𝚕 𝙱𝚘𝚝 𝙳𝚎𝚙𝚕𝚘𝚢𝚎𝚍 𝚂𝚞𝚌𝚌𝚎𝚜𝚏𝚞𝚕𝚕𝚢⚡")
 
 Riz.run_until_disconnected()
