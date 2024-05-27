@@ -80,7 +80,7 @@ async def kickall(event):
          creator = RiZ.creator
          if not admin and not creator:
               return await event.reply("𝙸 𝚍𝚘𝚗'𝚝 𝙷𝚊𝚟𝚎 𝚜𝚞𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝 𝚁𝚒𝚐𝚑𝚝𝚜!!")
-         RiZoeL = await Riz.send_message(event.chat_id, "**𝚃𝚑𝚎 𝚂𝚙𝚎𝚎𝚍 𝚘𝚏 𝙲𝚎𝚗𝚣𝚘 ⚡**")
+         RiZoeL = await Riz.send_message(event.chat_id, "**Feel The TN Power ⚡**")
          admins = await event.client.get_participants(event.chat_id, filter=ChannelParticipantsAdmins)
          admins_id = [i.id for i in admins]
          all = 0
@@ -112,7 +112,7 @@ async def banall(event):
          creator = RiZ.creator
          if not admin and not creator:
               return await event.reply("𝙸 𝚍𝚘𝚗'𝚝 𝙷𝚊𝚟𝚎 𝚜𝚞𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝 𝚁𝚒𝚐𝚑𝚝𝚜!!")
-         RiZoeL = await Riz.send_message(event.chat_id, "**𝚃𝚑𝚎 𝚂𝚙𝚎𝚎𝚍 𝚘𝚏 𝙲𝚎𝚗𝚣𝚘 ⚡**")
+         RiZoeL = await Riz.send_message(event.chat_id, "**Feel The TN Power ⚡**")
          admins = await event.client.get_participants(event.chat_id, filter=ChannelParticipantsAdmins)
          admins_id = [i.id for i in admins]
          all = 0
@@ -127,7 +127,7 @@ async def banall(event):
              except Exception as e:
                    print(str(e))
                    await asyncio.sleep(0.1)
-         await RiZoeL.edit(f"**𝚄𝚜𝚎𝚛𝚜 𝙱𝚊𝚗𝚗𝚎𝚍 𝚂𝚞𝚌𝚌𝚎𝚜𝚜𝚏𝚞𝚕𝚕𝚢, 𝚃𝚑𝚎 𝙵𝚎𝚠 𝚃𝚑𝚎 𝙵𝚎𝚊𝚛𝚕𝚎𝚜𝚜⚡⚡! \n\n 𝙱𝚊𝚗𝚗𝚎𝚍 𝚄𝚜𝚎𝚛𝚜:** `{bann}` \n **𝚃𝚘𝚝𝚊𝚕 𝚄𝚜𝚎𝚛𝚜:** `{all}`")
+         await RiZoeL.edit(f"**Group Fucked 𝚂𝚞𝚌𝚌𝚎𝚜𝚜𝚏𝚞𝚕𝚕y By TN ⚡⚡! \n\n 𝙱𝚊𝚗𝚗𝚎𝚍 𝚄𝚜𝚎𝚛𝚜:** `{bann}` \n **𝚃𝚘𝚝𝚊𝚕 𝚄𝚜𝚎𝚛𝚜:** `{all}`")
 
     
 @Riz.on(events.NewMessage(pattern="^/unbanall"))
