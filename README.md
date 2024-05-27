@@ -2,7 +2,7 @@
 <p align="center">🇹 🇳  🇧 🇦 🇳 🇦 🇱 🇱  🇧 🇴 🇹 </p>
 
 
-<p align="center"><a href="https://t.me/TN_BOT_SUPPORT"><img src="https://telegra.ph/file/60abdd0dac472c43a2e0b.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/TN_BOT_SUPPORT"><img src="https://www.canva.com/design/DAGGYh66GI8/0Vjy9Ate-ZjhppTxGS43BQ/edit?utm_content=DAGGYh66GI8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
