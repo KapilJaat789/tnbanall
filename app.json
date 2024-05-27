@@ -1,8 +1,7 @@
 {
    "name": "TN BANALL",
    "description": "Telegram Bot",
-   "repository": "https://github.com/KapilJaat789/tnbanall-",
-   "logo": "https://www.canva.com/design/DAGGYh66GI8/0Vjy9Ate-ZjhppTxGS43BQ/edit?utm_content=DAGGYh66GI8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton,
+   "repository": "https://github.com/KapilJaat789/tnbanall-"
    "image": "heroku/python",
    "env": {
       "API_ID": {
