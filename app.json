@@ -1,0 +1,35 @@
+{
+   "name": "VOID BANALL",
+   "description": "Telegram Bot",
+   "repository": "https://github.com/CenzoGod/Banall-",
+   "logo": "https://telegra.ph/file/60abdd0dac472c43a2e0b.jpg",
+   "image": "heroku/python",
+   "env": {
+      "API_ID": {
+        "description": "Fill Api ID Take this value from My.telegram.org",
+        "value": "",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "Fill Api hash Take this value from My.telegram.org",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN": {
+        "description": "Bot Token",
+        "value": "",
+        "required": true
+      },      
+      "SUDO": {
+            "description": "Sudo users id space by space",
+            "value": "",
+            "required": true  
+      }
+   },
+   "formation": {
+            "worker": {
+                "quantity": 1,
+                "size": "basic"
+            }
+        }
+  }
